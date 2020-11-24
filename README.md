@@ -40,7 +40,7 @@ Clover folder for Lenovo Ideapad 330-15IKB (i5 version). This folder is tested w
 - Microphone
 - Keyboard function buttons
 - Sleep mode
+- Ethernet port
 
 ### What don't works?
 - Wifi
-- Ethernet Port (But usb-ethernet port works ok)
