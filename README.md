@@ -1,6 +1,8 @@
 # Clover Folder for 330-15IKB
 Clover folder for Lenovo Ideapad 330-15IKB (i5 version). This folder is tested with Oralila Catalina.
 
+**Very important: USE config2.plist**
+
 ## Specs
 - Especificaciones Lenovo ideapad 330-15IKB
 - Procesador Intel® Core™ i5-8250U (frecuencia base de 1,6 GHz, hasta 3,5 GHz con tecnología Intel® Turbo Boost, 6 MB de caché, 4 núcleos)
