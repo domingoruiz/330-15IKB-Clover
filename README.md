@@ -41,6 +41,7 @@ Clover folder for Lenovo Ideapad 330-15IKB (i5 version). This folder is tested w
 - Keyboard function buttons
 - Sleep mode
 - Ethernet port
+- Cards Reader
 
 ### What don't works?
 - Wifi
