@@ -1,5 +1,8 @@
 # Clover Folder for 330-15IKB
-Clover folder for Lenovo Ideapad 330-15IKB (i5 version). This folder is tested with Oralila Catalina.
+Clover folder for Lenovo Ideapad 330-15IKB (i5 version). This folder is tested with Oralila Catalina. 
+
+## Install
+[Manual of use of this folder clover available at olarila.com clicking here](https://www.olarila.com/topic/11461-successful-installation-macos-catalina-10156-on-lenovo-ideapad-330-15ikb/)
 
 ## Specs
 - Especificaciones Lenovo ideapad 330-15IKB
